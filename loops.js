@@ -13,4 +13,7 @@ function forLoop(a){
 }
 
 forLoop(x);
-console.log(x);
+
+for (let i = 0; i < 25; i++){
+  console.log(x[i]);
+  }
