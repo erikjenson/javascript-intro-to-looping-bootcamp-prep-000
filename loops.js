@@ -8,12 +8,10 @@ function forLoop(a){
   else {
     a.push(`I am ${i} strange loops.`);
   }
-  return a;
+  console.log (a[i]);
 }
+return a;
 }
 
 forLoop(x);
 
-for (let i = 0; i < 25; i++){
-  console.log(x[i]);
-  }
