@@ -12,7 +12,7 @@ return a;
 }
 
 function whileLoop(b){
-  while (b > 0){
+  while (b > -1){
     console.log(b);
     --b;
   }
