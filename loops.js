@@ -18,3 +18,6 @@ function whileLoop(b){
   return 'done';
 }
 
+function doWhileLoop(c){
+  
+}
