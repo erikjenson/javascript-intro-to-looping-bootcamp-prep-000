@@ -19,5 +19,8 @@ function whileLoop(b){
 }
 
 function doWhileLoop(c){
+  do{
+    console.log();
+  }while (incrementVariable() < c);
   
 }
