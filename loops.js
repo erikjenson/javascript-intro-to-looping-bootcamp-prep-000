@@ -20,7 +20,6 @@ function whileLoop(b){
 
 function doWhileLoop(c){
   do{
-    console.log();
+    console.log("I run once regardless.");
   }while (incrementVariable() < c);
-  
 }
